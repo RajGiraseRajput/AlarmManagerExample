@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmManagerExample</string>
+    <string name="set_time">Set Time here in (Secs)</string>
+    <string name="set_alarm">Set Alarm</string>
+</resources>
